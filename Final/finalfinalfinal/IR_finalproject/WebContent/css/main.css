@@ -1,0 +1,12 @@
+    body
+        {
+            background:url('WebContent/images/etsy.jpg') no-repeat center center fixed;
+            background-size: cover;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            margin: 0;
+            padding: 0;
+        }
+
+    </style>
